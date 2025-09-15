@@ -1,0 +1,23 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/graphqlApi/definition/1.0.0/schema.json",
+  "datasources": [
+    {
+      "objects": [
+        {
+          "IsStoredProcedureQueryNode": true,
+          "actions": {
+            "Execute": "Enabled"
+          },
+          "fieldMappings": {},
+          "graphqlType": "find_products_wrapper",
+          "relationships": [],
+          "sourceObject": "dbo.find_products_wrapper",
+          "sourceObjectType": "StoredProcedure"
+        }
+      ],
+      "sourceItemId": "ff420a8d-3216-4581-81a9-9b081f1fd06f",
+      "sourceType": "MountedWarehouse",
+      "sourceWorkspaceId": "76ec9997-4946-4ed9-a3d6-1eea6311fe33"
+    }
+  ]
+}

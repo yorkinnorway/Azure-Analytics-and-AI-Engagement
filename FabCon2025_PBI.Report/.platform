@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "FabCon2025_PBI"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9dd630b9-e60c-bd1c-49e7-634a3e08f855"
+  }
+}
